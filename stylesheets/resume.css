@@ -9,7 +9,7 @@ body {
 }
 
 script {
-    display: block;
+    display: inline;
 }
 
 footer {
