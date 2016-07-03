@@ -230,14 +230,7 @@ ul {
 	position: absolute;
 	top: 75px;
 	left: -193px;
-	width: 150px;
-	height: 24px;
-	padding-top: 10px;
-	background: #ddd;
-	border: 1px solid #ccc;
-	font-size: 14px;
-	text-align: center;
-	text-shadow: 1px 1px white;
+	
 }
 
 #printable_banner {
